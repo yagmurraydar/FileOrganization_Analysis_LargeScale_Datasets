@@ -36,9 +36,17 @@ g++ -O3 main.cpp -o library_app
 
 
 Dataset Scale,      Main Data File Size,       Index File Size,     DB Build Latency,       Author Search Latency
+
+
 "10,000 (10K)",      ~3.09 MB,                  ~1.08 MB,                 ~4ms,                 ~0.15 ms
+
+
 "100,000 (100K)",    ~30.90 MB,                  ~10.80 MB,              ~410 ms,               ~0.85 ms
+
+
 "1,000,000 (1M)",     ~309.00 MB,                ~108.00 MB,             ~4,250 ms,             ~6.40 ms
+
+
 
 Group Members 
 
