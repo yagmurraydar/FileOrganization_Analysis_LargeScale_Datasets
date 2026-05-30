@@ -41,7 +41,15 @@ Dataset Scale,      Main Data File Size,       Index File Size,     DB Build Lat
 "1,000,000 (1M)",     ~309.00 MB,                ~108.00 MB,             ~4,250 ms,             ~6.40 ms
 
 Group Members 
+
+
 This project was designed, implemented, and defended collectively by: 
+
+
 Yağmur Aydar
+
+
 Zülfiye Buse Güneş
+
+
 Erdem Yüksel
