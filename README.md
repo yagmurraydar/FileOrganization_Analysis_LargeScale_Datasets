@@ -34,7 +34,7 @@ g++ -O3 main.cpp -o library_app
 ├── library_data.bin
 └── author_index.bin
 
-
+## 
 Dataset Scale,      Main Data File Size,       Index File Size,     DB Build Latency,       Author Search Latency
 
 
@@ -48,7 +48,7 @@ Dataset Scale,      Main Data File Size,       Index File Size,     DB Build Lat
 
 
 
-Group Members 
+## Group Members 
 
 
 This project was designed, implemented, and defended collectively by: 
