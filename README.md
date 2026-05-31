@@ -15,7 +15,7 @@ Converts raw, delimited text records (`books_dataset.txt`) into serialized, fixe
 - Generates `library_data.bin` (Main Data Store)
 - Generates `author_index.bin` (Secondary Index Store)
 
-### 2. Live Interactive Hub (`main.cpp`)
+### 2. Live Interactive Hub (`file.cpp`)
 Launches the fully reactive console user interface providing real-time dynamic CRUD modules. 
 
 ##  Compilation & Deployment (Release Mode)
@@ -23,7 +23,7 @@ To activate maximum compiler loop unrolling and hardware-level performance confi
 
 # Compilation
 g++ -O3 db_builder.cpp -o db_builder
-g++ -O3 main.cpp -o library_app
+g++ -O3 file.cpp -o library_app
 
 # Directory Structure Constraints
 # Ensure the compiled executable sits adjacent to the source data:
